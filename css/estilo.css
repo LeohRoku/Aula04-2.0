@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/* Estilo do Projeto */
+body{
+    font-family: 'Open Sans',' Times New Roman';
+    background: #2B678C;
+   
+}
+
+td{
+    background: #26211D;
+    color: #F2F0D8;
+    padding: 16px;
+    font-size: 22px;
+    text-align: center;
+    
+}
+th{
+    background: #011640;
+    color: #F2F0D8;
+    padding: 8px;
+    text-align: center;
+}
+h1{
+    color: #26211D;
+    font-size: 40px; /* Tamanho da Fonte */
+    font-weight: bold; /* Negrito */
+}
+h2{color: #26211D;}
+
+table{
+    width: 100%;
+    border-collapse: collapse; /* Remove a linha dupla */
+    border: 1px solid #F2F0D8;
+    margin-top: 22px;
+   
+}
+
+img{
+    border-radius: 10%;
+}
+
+.direita{
+    text-align: right;
+}
